@@ -1,0 +1,5 @@
+1. The terminal reminds me of the brain of a computer. It allows you to access different places in your system and control your files. It allows you to control creating files and changing directories in your system. The terminal is used as best practice for github. The terminal helps you see what files are located in specific directories on your device.
+2. Github is cloud-based system where you are able to push, pull, and look over coding projects. Git is a system that helps users keep up with their code. Git can manage multiple versions of your code and then you take those versions and upload them to Github.
+3. We use Github to upload different versions of our code and make edits it helps to manage Git repositories. 
+
+
